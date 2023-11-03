@@ -1,0 +1,54 @@
+[
+    {
+        "cover_img": "https://i.ibb.co/wp3MtCg/1.jpg",
+        "title": "10 Tips for Better Productivity",
+        "author_name": "John Doe",
+        "author_img": "https://i.ibb.co/M7znNx1/boy1.png",
+        "posted_date": "2023-10-15",
+        "reading_time": "5 minutes",
+        "hashtags": [
+            "productivity",
+            "tips",
+            "work"
+        ]
+    },
+    {
+        "cover_img": "https://i.ibb.co/FWz3NRj/2.png",
+        "title": "Exploring the Wonders of Nature",
+        "author_name": "Jane Smith",
+        "author_img": "https://i.ibb.co/6DNv2jC/boy2.jpg",
+        "posted_date": "2023-09-28",
+        "reading_time": "8 minutes",
+        "hashtags": [
+            "nature",
+            "adventure",
+            "travel"
+        ]
+    },
+    {
+        "cover_img": "https://i.ibb.co/fNrK6R8/3.png",
+        "title": "The Art of Healthy Cooking",
+        "author_name": "Ella Johnson",
+        "author_img": "https://i.ibb.co/6spsyL5/girl1.jpg",
+        "posted_date": "2023-08-10",
+        "reading_time": "7 minutes",
+        "hashtags": [
+            "cooking",
+            "food",
+            "health"
+        ]
+    },
+    {
+        "cover_img": "https://i.ibb.co/mSZY9Fz/4.jpg",
+        "title": "Mastering the Basics of Coding",
+        "author_name": "David Brown",
+        "author_img": "https://i.ibb.co/7pwkYb0/girl2.jpg",
+        "posted_date": "2023-07-22",
+        "reading_time": "10 minutes",
+        "hashtags": [
+            "coding",
+            "programming",
+            "development"
+        ]
+    }
+]
